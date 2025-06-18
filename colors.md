@@ -1,5 +1,5 @@
-# Colors
+# Purple
 
-1. Red
-2. Blue
-3. Green
+1. Blue
+2. Green
+3. Orange
